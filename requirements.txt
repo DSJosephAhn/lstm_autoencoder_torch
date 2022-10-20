@@ -5,5 +5,8 @@ tqdm
 celluloid
 
 easydict
+jupyter
+ipykernel 
+ipywidgets
 
 torch
